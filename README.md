@@ -1,6 +1,6 @@
 [![Benjamin's GitHub stats](https://github-readme-stats.vercel.app/api?username=BenjaminOsmers&count_private=true&show_icons=true&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Benjamin's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BenjaminOsmers)](https://github.com/anuraghazra/github-readme-stats)
+[![Benjamin's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BenjaminOsmers&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **BenjaminOsmers/BenjaminOsmers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
